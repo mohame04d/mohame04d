@@ -46,12 +46,3 @@
     <img src="https://img.shields.io/github/followers/mohame04d?label=Followers&style=social" alt="GitHub Badge"/>
 </a>
 
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=600&duration=4000&lines=Thanks+for+visiting!+%E2%9D%A4%EF%B8%8F+Let+us+connect+and+build+something+amazing!" />
-</h3>
-
-
-
-
-
