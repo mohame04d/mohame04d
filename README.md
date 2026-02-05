@@ -29,9 +29,10 @@
   <a href="mailto:mohakim88tr@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>&nbsp;
-  <a href="https://wa.me/0123456789" target="_blank">
-      <img src="https://wa.me/2010669532055?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <a href="https://wa.me/2010669532055?text=Hello%20I%20want%20to%20contact%20you" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 </div>
 
 ##  Views and Followers:
