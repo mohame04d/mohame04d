@@ -20,22 +20,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,express,js,vscode,git,github,postman" />
 </div>
 
-##  My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mohame04d/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile" alt="Mohamed Hakem streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohame04d&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mohame04d/github-readme-stats">
-    <img alt="Mohamed Hakem GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohame04d&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="180"/>
-  </a>
-  <a href="https://github.com/mohame04d/github-readme-stats">
-    <img alt="Mohamed Hakem Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohame04d&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180"/>
-  </a>
-</p>
 
 ###  Contribution Snake
 <p align="center">
@@ -49,14 +33,15 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hakem/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-elnagar-b7ab6a2a2/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mohakim88tr@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>&nbsp;
   <a href="https://wa.me/0123456789" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      <img src="https://wa.me/2010669532055
+?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
