@@ -47,5 +47,5 @@
 </a>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&center=true&vCenter=true&width=600&duration=4000&lines=Thanks+for+visiting!+❤️;+Let's+connect+and+build+something+amazing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=600&duration=4000&lines=Thanks+for+visiting!+%E2%9D%A4%EF%B8%8F;Let's+connect+and+build+something+amazing!" />
 </h3>
