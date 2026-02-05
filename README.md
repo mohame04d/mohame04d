@@ -14,11 +14,6 @@
   <img src="https://c.tenor.com/8t0hW4_6AtIAAAAC/programming-code.gif" alt="Coding Animation" />
 </div>
 
-## 📂 My Projects
-
-| <a href="#"><img src="https://via.placeholder.com/120x120.png?text=Project+1" width="120"/></a> | <a href="#"><img src="https://via.placeholder.com/120x120.png?text=Project+2" width="120"/></a> | <a href="#"><img src="https://via.placeholder.com/120x120.png?text=Project+3" width="120"/></a> |
-| :-----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-| **Project 1** | **Project 2** | **Project 3** |
 
 ##  Languages and Tools:
 <div align="center">
