@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi,+I'm+MohamedHakeem;Back+End+Developer;Node.js+%7C+Nest.js+%7C+MongoDB+%7C+SQL+%7C+Socket.io;Welcome+to+my+GitHub+Profile+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi,+I'm+MohamedHakeem;Back+End+Developer;Node.js+-+Nest.js+-+MongoDB+-+SQL+-+Socket.io;Welcome+to+my+GitHub+Profile+🚀" />
 </p>
+
 
 <br>
 
