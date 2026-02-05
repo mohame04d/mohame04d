@@ -20,16 +20,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,express,js,vscode,git,github,postman" />
 </div>
 
-
-###  Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohame04d/mohame04d/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohame04d/mohame04d/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohame04d/mohame04d/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 ## 🤝 Connect With Me:
 
 <div align="center">
@@ -40,8 +30,7 @@
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>&nbsp;
   <a href="https://wa.me/0123456789" target="_blank">
-      <img src="https://wa.me/2010669532055
-?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      <img src="https://wa.me/2010669532055?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
