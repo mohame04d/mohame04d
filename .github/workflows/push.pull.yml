@@ -3,16 +3,16 @@ on:
      branches: 
        - main
        - dev
-    #  path:
+    #  paths:
     #  - "src/**"
-    pull:
+    pull_request:
       - main
-jops:
+jobs:
   test:
-    run-on:ubuntu-latest
+    runs-on:ubuntu-latest
     steps:
     - name: Checkout repository
       uses: actions/checkout@v6.0.2
 
-      -name: Run-tests
-       run: npm test
+    - name: Run-tests
+      run: npm test
